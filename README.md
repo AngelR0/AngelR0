@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AngelR0
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning Python 
+- 👋 Hi, I’m Angel Reyes
+- 👀 I’m in the process of getting my certificate from SMU bootcamp in Finence Technology
+- 🌱 I’m currently learning Python, and in the future enhance my skills in C++
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me ...
 
 <!---
 AngelR0/AngelR0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
