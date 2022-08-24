@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Angel Reyes
-- 👀 I’m in the process of getting my certificate from SMU bootcamp in Finence Technology
+- 👀 I have received a certificate from SMU bootcamp in Finence Technology
 - 🌱 I’m currently learning Python, and in the future enhance my skills in C++
 - 💞️ I’m looking to collaborate on future projects
 
